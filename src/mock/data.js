@@ -68,8 +68,8 @@ export const projectsData = [
     title: 'Markdown Editor',
     info: 'A Markdown Editor using Marked.js, React and Webpack.',
     info2: '',
-    url: 'https://drum.vinandros.com/',
-    repo: 'https://github.com/vinandros/drummachine', // if no repo, the button will not show up
+    url: 'https://markdown.vinandros.com/',
+    repo: 'https://github.com/vinandros/markdown', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
