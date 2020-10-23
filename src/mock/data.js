@@ -80,6 +80,15 @@ export const projectsData = [
     url: 'http://quote.vinandros.com/',
     repo: 'https://github.com/vinandros/randomquote', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'barchart.png',
+    title: 'Bar Chart',
+    info: 'A basic bar chart using d3.js.',
+    info2: '',
+    url: 'https://barchart.vinandros.com/',
+    repo: 'https://github.com/vinandros/barchart', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
